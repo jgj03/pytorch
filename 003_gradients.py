@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+""" @author: JGJ"""
 
 # a gradient wrt a loss function & use gradients to figure the direction to go to make loss smaller
 

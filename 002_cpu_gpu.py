@@ -1,3 +1,7 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+""" @author: JGJ"""
+
 # Need a GPU to get this to run!
 
 import torch
